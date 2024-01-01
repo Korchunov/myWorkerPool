@@ -1,0 +1,4 @@
+github.com/GOLANG-NINJA/pingrobot v0.0.0-20211013071402-e284402b0d24 h1:N013FtFg81CpwQIezLRPzzhojuqrlueUjVwvoFIfjpg=
+github.com/GOLANG-NINJA/pingrobot v0.0.0-20211013071402-e284402b0d24/go.mod h1:iqWhq01KDficQz7urfrOD73dd1pnobgo0NLY+U3b7XE=
+github.com/miekg/pkcs11 v1.1.1 h1:Ugu9pdy6vAYku5DEpVWVFPYnzV+bxB+iRdbuFSu7TvU=
+github.com/miekg/pkcs11 v1.1.1/go.mod h1:XsNlhZGX73bx86s2hdc/FuaLm2CPZJemRLMA+WTFxgs=
